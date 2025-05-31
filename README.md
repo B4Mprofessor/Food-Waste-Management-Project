@@ -16,17 +16,5 @@ A Streamlit-based web app that connects food providers and receivers to reduce f
 - Pandas
 - Seaborn / Matplotlib
 
-## 📸 Screenshots
-(Add screenshots or GIFs here)
 
-## 📂 Project Structure
 
-project/
-├── app/
-│ └── streamlit_app.py
-├── db/
-│ └── food_waste.db
-├── notebooks/
-│ ├── 1_data_to_sqlite.ipynb
-│ └── 2_eda.ipynb
-...
